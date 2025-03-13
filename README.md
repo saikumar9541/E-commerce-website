@@ -1,4 +1,4 @@
-# StyleStore E-commerce Website
+# ExploreWithMe E-commerce Website
 
 A modern e-commerce website built with Next.js, Tailwind CSS, and Stripe for payments.
 
